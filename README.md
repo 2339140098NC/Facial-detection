@@ -6,7 +6,7 @@ This project uses OpenCV's Haar Cascade classifier to detect faces in each frame
 Project Structure
 -----------------
 face-detection-video/
-├── face_detection.py       # Main Python script
+├── 06facial_detection.py       # Main Python script
 ├── README.txt              # This file
 └── haarcascades/           # Directory for Haar Cascade XML files (optional)
     └── haarcascade_frontalface_alt2.xml
@@ -47,7 +47,8 @@ Usage
 
 Example
 -------
-(Add a screenshot if available)
+![project1](https://github.com/user-attachments/assets/a2c36f3b-c452-4ec5-88e3-609389a603e8)
+
 
 Notes
 -----
